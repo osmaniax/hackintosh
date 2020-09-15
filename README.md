@@ -1,6 +1,6 @@
 # Hackintosh
-This is Hackintosh EFI Files.
-Enjoy Hackintosh!!
+#### This is Hackintosh EFI Files.
+#### Enjoy Hackintosh!!
 
 # Lenovo ThinkPad
 
