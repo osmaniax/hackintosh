@@ -14,7 +14,7 @@
 ##### Wifi Works(itlwm.kext)
 
 ### X230、13 / Catalina
-#### Battery Works
+##### Battery Works
 
 
 ## OpenCore
