@@ -5,6 +5,7 @@ Enjoy Hackintosh!!
 ## Lenovo ThinkPad
 
 ### Clover
+
 #### E130、X240、X250 / Catalina
 Battery NG
 
