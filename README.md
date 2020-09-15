@@ -10,8 +10,8 @@ Enjoy Hackintosh!!
 Battery NG
 
 #### X240、X250 / Catalina
-Battery NG
-Wifi Works(itlwm.kext)
+-Battery NG
+-Wifi Works(itlwm.kext)
 
 #### X230、13 / Catalina
 Battery Works
