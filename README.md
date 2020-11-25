@@ -10,7 +10,6 @@
 ##### Battery NG
 
 ### X240、X250 / Catalina
-##### Battery NG
 ##### Wifi Works(itlwm.kext)
 
 ### X230、13 / Catalina
@@ -21,3 +20,12 @@
 ### X1Carbon2016(4th) / Catalina & BigSur
 ##### (BIOS Ver 1.33)
 ##### DP NG
+
+### X230 / Catalina & BigSur
+##### Battery Works
+
+### E130、X240 / Catalina & BigSur
+##### Battery NG
+
+### X240 / Catalina & BigSur
+##### Wifi Works(itlwm.kext)
