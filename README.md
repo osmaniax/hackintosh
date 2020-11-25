@@ -4,7 +4,7 @@
 
 # Lenovo ThinkPad
 
-## Clover
+## Clover bootloader
 
 ### E130、X240、X250 / Catalina
 ##### Battery NG
@@ -17,7 +17,7 @@
 ##### Battery Works
 
 
-## OpenCore
+## OpenCore bootloader
 ### X1Carbon2016(4th) / Catalina & BigSur
 ##### (BIOS Ver 1.33)
 ##### DP NG
