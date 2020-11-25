@@ -17,7 +17,7 @@
 
 
 ## OpenCore bootloader
-### X1Carbon2016(4th) / Catalina & BigSur
+### 13、X1Carbon2016(4th) / Catalina & BigSur
 ##### (BIOS Ver 1.33)
 ##### DP NG
 
