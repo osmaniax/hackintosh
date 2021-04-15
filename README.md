@@ -31,4 +31,4 @@
 ##### Wifi Works(itlwm.kext)
 
 ### T470 / BigSur
-##### Battery NG
+##### Battery NG / HDMI not work
