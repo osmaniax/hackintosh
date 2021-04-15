@@ -29,3 +29,6 @@
 
 ### X240 / Catalina & BigSur
 ##### Wifi Works(itlwm.kext)
+
+### T470 / BigSur
+##### Battery NG
